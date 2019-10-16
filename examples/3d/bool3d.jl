@@ -1,6 +1,6 @@
 using LinearAlgebraicRepresentation, ViewerGL, SparseArrays
 Lar = LinearAlgebraicRepresentation; GL = ViewerGL
-using Base.union
+# using Base.union
 
 # 3D Boolean example generation
 #-------------------------------------------------------------------------------
